@@ -1,0 +1,7 @@
+resources:
+  #Gradle Application
+  - name: source_code
+    type: GitRepo
+    configuration:
+      gitProvider: github
+      path: sanderss/SwampUp2021
