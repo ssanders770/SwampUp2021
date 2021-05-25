@@ -4,4 +4,4 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: github
-      path: sanderss/SwampUp2021
+      path: sanderss770@gmail.com/SwampUp2021
